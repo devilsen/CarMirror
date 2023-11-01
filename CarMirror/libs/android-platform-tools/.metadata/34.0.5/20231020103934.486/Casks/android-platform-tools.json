@@ -1,0 +1,74 @@
+{
+  "full_token": "android-platform-tools",
+  "old_tokens": [
+
+  ],
+  "tap": "homebrew/cask",
+  "name": [
+    "Android SDK Platform-Tools"
+  ],
+  "desc": "Android SDK component",
+  "homepage": "https://developer.android.com/studio/releases/platform-tools",
+  "url": "https://dl.google.com/android/repository/platform-tools_r34.0.5-darwin.zip",
+  "url_specs": {
+    "verified": "google.com/android/repository/"
+  },
+  "appcast": null,
+  "version": "34.0.5",
+  "installed": null,
+  "outdated": false,
+  "sha256": "b2c9757744a9d01fcc616b893ac6236233caf1bdf2ef384d73371ab68bfc4a43",
+  "artifacts": [
+    {
+      "binary": [
+        "$HOMEBREW_PREFIX/Caskroom/android-platform-tools/34.0.5/platform-tools/adb"
+      ]
+    },
+    {
+      "binary": [
+        "$HOMEBREW_PREFIX/Caskroom/android-platform-tools/34.0.5/platform-tools/etc1tool"
+      ]
+    },
+    {
+      "binary": [
+        "$HOMEBREW_PREFIX/Caskroom/android-platform-tools/34.0.5/platform-tools/fastboot"
+      ]
+    },
+    {
+      "binary": [
+        "$HOMEBREW_PREFIX/Caskroom/android-platform-tools/34.0.5/platform-tools/hprof-conv"
+      ]
+    },
+    {
+      "binary": [
+        "$HOMEBREW_PREFIX/Caskroom/android-platform-tools/34.0.5/platform-tools/make_f2fs"
+      ]
+    },
+    {
+      "binary": [
+        "$HOMEBREW_PREFIX/Caskroom/android-platform-tools/34.0.5/platform-tools/make_f2fs_casefold"
+      ]
+    },
+    {
+      "binary": [
+        "$HOMEBREW_PREFIX/Caskroom/android-platform-tools/34.0.5/platform-tools/mke2fs"
+      ]
+    }
+  ],
+  "caveats": null,
+  "depends_on": {
+  },
+  "conflicts_with": null,
+  "container": null,
+  "auto_updates": null,
+  "tap_git_head": "5eb7ea2f746247f1e53c975769a76e1c83f40ca5",
+  "languages": [
+
+  ],
+  "ruby_source_path": "Casks/a/android-platform-tools.rb",
+  "ruby_source_checksum": {
+    "sha256": "7fb02a0a07c36a1dc68c694daaa1fae7e501e9fcf069f01dd74df639a87348c8"
+  },
+  "variations": {
+  }
+}
